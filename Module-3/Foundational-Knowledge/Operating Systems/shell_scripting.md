@@ -1,5 +1,5 @@
 
-# Advanced Shell Scripting for Cyber Security Analysts
+# Shell Scripting for Cyber Security Analysts
 
 Shell scripting is a vital tool for automating, securing, and managing systems. Below is a comprehensive guide from basic to advanced shell scripting concepts, covering key topics for cyber security analysts.
 
